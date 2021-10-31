@@ -15,11 +15,11 @@
 <p>Screenshot:</p>
 <img alt="Screenshot" src="link goes here" width="40%" />
 
-![screenshot](client/screenshot/Screenshot.png)
-![screenshot](client/screenshot/Screenshot02.png)
+![screenshot](/screenshot/Screenshot.png)
+![screenshot](/screenshot/Screenshot02.png)
 
 > Building by [regex](https://emailregex.com/), 
-![screenshot](client/screenshot/Screenshot03.png)
+![screenshot](/screenshot/Screenshot03.png)
 <img alt="Screenshot" src="link goes here" width="100%" />
 
 <h3>I made this project for learning Mern stack.</h3>
@@ -180,4 +180,3 @@ To deploy your local project to heroku, push it to GitHub/GitLab/Bitbucket and [
 **Improve Visibility with Visual Content**
 **Boost Engagement Rates**
 
-# editor

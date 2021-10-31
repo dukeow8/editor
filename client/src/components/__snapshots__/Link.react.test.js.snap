@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<a
+  className="normal"
+  href=" https://nameless-hollows-24254.herokuapp.com/"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  instagram
+</a>
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+<a
+  className="hovered"
+  href=" https://nameless-hollows-24254.herokuapp.com/"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  instagram
+</a>
+`;
+
+exports[`Link changes the class when hovered 3`] = `
+<a
+  className="normal"
+  href=" https://nameless-hollows-24254.herokuapp.com/"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  instagram
+</a>
+`;
