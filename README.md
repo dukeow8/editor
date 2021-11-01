@@ -9,11 +9,11 @@
   </a>
 </p>
 <h1 align="center">
-  Insta-editor
+  Editor
 </h1>
 
 <p>Screenshot:</p>
-<img alt="Screenshot" src="link goes here" width="40%" />
+<img alt="Screenshot" src="screenshot/Screenshot.png" width="40%" />
 
 ![screenshot](client/screenshot/Screenshot.png)
 ![screenshot](client/screenshot/Screenshot02.png)
@@ -58,7 +58,7 @@ If you want to learn more about MongoDB, visit the following pages:
 <p>
   This is a insta-editor web app were you will be able to create content,edit profile and search. I set up links for other pages but I did not design them.fetching from mongoDB <a href="https://blog.logrocket.com/mern-stack-tutorial/">MERN Stack</a>. the objective is to develop a project with the best possible structure and elevate your MERN stack projects to meet industry standards.
   <br><br>
-  I used <a href="https://github.com/">Github</a> to deploy project.
+  I used <a href="https://github.com/">Github</a> to deploy project & <a href="https://dark-blood-37349.herokuapp.com/">Heroku<a/>
   <br><br>
   The good thing about Using Github to deploy your websites is that when you change anything, I mean push a new commit, it will be re-builded and deployed again. 
   <br><br>
