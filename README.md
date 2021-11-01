@@ -13,7 +13,6 @@
 </h1>
 
 <p>Screenshot:</p>
-<img alt="Screenshot" src="screenshot/Screenshot.png" width="40%" />
 
 ![screenshot](client/screenshot/Screenshot.png)
 ![screenshot](client/screenshot/Screenshot02.png)
@@ -23,7 +22,7 @@
 <img alt="Screenshot" src="link goes here" width="100%" />
 
 <h3>I made this project for learning Mern stack.</h3>
-<h3>Demo: link goes here</h3>
+<h3>Demo:https://dark-blood-37349.herokuapp.com/</h3>
 
 <h4>What did I use?</h5>
 
